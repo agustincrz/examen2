@@ -1,0 +1,3 @@
+Alumno: Agustin Cerezo Rodriguez
+Email: cerezorodriguezagustin@gmail.com
+github: https://github.com/agustincrz/examen2.git

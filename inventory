@@ -1,0 +1,6 @@
+[bionic]
+192.168.122.152 ansible_user=agustinrodriguez ansible_ssh_private_key_file=./bionic.key
+
+[bionic:vars]
+http_port=80
+https_port=443
